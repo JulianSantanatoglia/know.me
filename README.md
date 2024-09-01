@@ -6,7 +6,7 @@
 
 💻 I possess strong design skills when combined with my coding abilities, enable me to create responsive, modern, functional, and accessible websites.
 
-🧠 I consider myself a sociable and positive person who enjoys continuous learning, teamwork, and problem-solving. My attention to detail allows me to identify errors and work with precision and efficiency.
+🧠 I consider myself a sociable and positive individual who enjoys continuous learning, teamwork, and problem-solving. My attention to detail allows me to identify errors and work with precision and efficiency. Additionally, my typing skills are fast and accurate, enabling me to work efficiently
 
 🎮 My hobbies? Coding, playing soccer, gaming, and traveling a lot ✈️
 
