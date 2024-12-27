@@ -1,14 +1,15 @@
 # Hi! I'm Julián #
 ## I'm Frontend Web Developer ##
 
+🇦🇷 I was born on February 17, 1994, in Argentina.
 
-👤 +2 year of experience in Software Development, specializing in Frontend with React, I have a solid foundation in various technologies and am eager to learn new languages, frameworks, or libraries.
+💻 I started in the programming world at the age of 13, combining my passion for video games and technology by developing a private Lineage II server using Java and managing databases with MySQL and Navicat. Since then, I’ve mastered programming logic and continued to acquire knowledge in a self-taught manner.
 
-💻 I possess strong design skills when combined with my coding abilities, enable me to create responsive, modern, functional, and accessible websites.
+🧠 Over 2 years of training in Software Development, specializing in Frontend with React. I’ve worked on several projects using HTML5, CSS3, SASS, Bootstrap, JavaScript, TypeScript, Next.js, Git, GitHub, and React, fully leveraging Hooks, Components, Props, and Routes. Additionally, I have experience with databases using MySQL, Firebase, and Microsoft Excel.
 
-🧠 I consider myself a sociable and positive individual who enjoys continuous learning, teamwork, and problem-solving. My attention to detail allows me to identify errors and work with precision and efficiency. Additionally, my typing skills are fast and accurate, enabling me to work efficiently
+💻 I’ve also completed several projects with WordPress using WooCommerce, Elementor, and Astra, incorporating hosting and domain setup, SSL certification, payment and shipping platforms, product management, and copywriting. I’ve worked on SEO optimization and accessibility, using Photoshop and Illustrator for wireframes, logos, banners, and product photo retouching.
 
-🎮 My hobbies? Coding, playing soccer, gaming, and traveling a lot ✈️
+🎮 My hobbies? Programming, playing soccer, video games, and traveling ✈️
 
 ⚡ Technologies ⚡
 
