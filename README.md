@@ -2,7 +2,7 @@
 ## I'm Frontend Web Developer ##
 
 
-👤 +1 year of experience in Software Development, specializing in Frontend with React, I have a solid foundation in various technologies and am eager to learn new languages, frameworks, or libraries.
+👤 +2 year of experience in Software Development, specializing in Frontend with React, I have a solid foundation in various technologies and am eager to learn new languages, frameworks, or libraries.
 
 💻 I possess strong design skills when combined with my coding abilities, enable me to create responsive, modern, functional, and accessible websites.
 
