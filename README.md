@@ -1,15 +1,15 @@
 # Hi! I'm Julián #
 ## I'm Frontend Web Developer ##
 
-🇦🇷 I was born on February 17, 1994, in Argentina.
+Hello! 👋🏻 
 
-💻 I started in the programming world at the age of 13, combining my passion for video games and technology by developing a private Lineage II server using Java and managing databases with MySQL and Navicat. Since then, I’ve mastered programming logic and continued to acquire knowledge in a self-taught manner.
+💻 My journey in programming began at the age of 14 when I developed a private Lineage II server using Java and managed databases with MySQL and Navicat. Since then, I have mastered logic and continued self-training.
 
-🧠 Over 2 years of training in Software Development, specializing in Frontend with React. I’ve worked on several projects using HTML5, CSS3, SASS, Bootstrap, JavaScript, TypeScript, Next.js, Git, GitHub, and React, fully leveraging Hooks, Components, Props, and Routes. Additionally, I have experience with databases using MySQL, Firebase, and Microsoft Excel.
+🧠 With over 2 years of experience in Software Development, I specialize in Frontend. I have worked on several projects with HTML5, CSS3, SASS, Bootstrap, Tailwind, JavaScript, Typescript, React, Angular, Next.js, Git, and GitHub. Additionally, I have knowledge in databases with MySQL, Firebase, and Microsoft Excel.
 
-💻 I’ve also completed several projects with WordPress using WooCommerce, Elementor, and Astra, incorporating hosting and domain setup, SSL certification, payment and shipping platforms, product management, and copywriting. I’ve worked on SEO optimization and accessibility, using Photoshop and Illustrator for wireframes, logos, banners, and product photo retouching.
+💻 I have also worked on WordPress projects using WooCommerce, Elementor, and Astra, setting up hosting, domains, authentication, SSL certification, payment and shipping platforms, products, copywriting, SEO, and accessibility. I used Photoshop and Illustrator for wireframes, logos, banners, and product photo retouching.
 
-🎮 My hobbies? Programming, playing soccer, video games, and traveling ✈️
+🎮 My Hobbies? Programming, playing soccer, and traveling.
 
 ⚡ Technologies ⚡
 
